@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/horoscope/static/css/main.8e209458.css",
+    "main.js": "/horoscope/static/js/main.a3566baf.js",
+    "static/js/787.d9397724.chunk.js": "/horoscope/static/js/787.d9397724.chunk.js",
+    "static/media/logo.png": "/horoscope/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/horoscope/index.html",
+    "main.8e209458.css.map": "/horoscope/static/css/main.8e209458.css.map",
+    "main.a3566baf.js.map": "/horoscope/static/js/main.a3566baf.js.map",
+    "787.d9397724.chunk.js.map": "/horoscope/static/js/787.d9397724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e209458.css",
+    "static/js/main.a3566baf.js"
+  ]
+}
